@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://skankeforeningeninorge.github.io/skankewebtest/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://skankeforeningeninorge.github.io/skankewebtest/</loc>
+</url>
+<url>
+<loc>https://skankeforeningeninorge.github.io/skankewebtest/forste-konstitueringsmotet-i-1982.html</loc>
+<lastmod>2025-06-19T11:16:39+02:00</lastmod>
+</url>
+<url>
+<loc>https://skankeforeningeninorge.github.io/skankewebtest/innmelding.html</loc>
+<lastmod>2025-09-24T22:30:19+02:00</lastmod>
+</url>
+<url>
+<loc>https://skankeforeningeninorge.github.io/skankewebtest/skanke-aetten.html</loc>
+<lastmod>2025-09-24T22:30:55+02:00</lastmod>
+</url>
+<url>
+<loc>https://skankeforeningeninorge.github.io/skankewebtest/skankeforeningen-2.html</loc>
+<lastmod>2025-09-24T22:30:36+02:00</lastmod>
+</url>
+<url>
+<loc>https://skankeforeningeninorge.github.io/skankewebtest/styreledere-fra-start-til-i-dag.html</loc>
+<lastmod>2025-06-19T10:25:26+02:00</lastmod>
+</url>
+<url>
+<loc>https://skankeforeningeninorge.github.io/skankewebtest/styret-i-skankeforeningen.html</loc>
+<lastmod>2025-06-19T11:02:53+02:00</lastmod>
+</url>
+<url>
+<loc>https://skankeforeningeninorge.github.io/skankewebtest/vedtekter.html</loc>
+<lastmod>2025-06-19T11:12:46+02:00</lastmod>
+</url>
+</urlset>
